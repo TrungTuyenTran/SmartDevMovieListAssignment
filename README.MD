@@ -19,6 +19,6 @@
 
 
 ## Screenshots
-![My Image](MovieListSmartDevAssignment-Swift/Simulator Screen Shot - iPhone 14 - 2023-03-20 at 23.20.43.png)
+![My Image](MovieListSmartDevAssignment-Swift/screenshot1.png)
 
-![My Image](MovieListSmartDevAssignment-Swift/Simulator Screen Shot - iPhone 14 - 2023-03-20 at 23.20.50.png)
+![My Image](MovieListSmartDevAssignment-Swift/screenshot2.png)
